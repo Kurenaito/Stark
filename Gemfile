@@ -60,9 +60,8 @@ group :test do
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
   # Use sqlite3 as the database for Active Record
-  # gem 'sqlite3', '~> 1.4'
-  # Since Heroku prefers pg to sqlite3, pg gem added here 9/22/21
-  gem 'pg'
+  gem 'sqlite3', '~> 1.4'
+
 end
 
 group :production do
