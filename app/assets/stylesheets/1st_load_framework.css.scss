@@ -6,6 +6,8 @@
 img {
   @extend .img-responsive;
   margin: 0 auto;
+  display: inline-block;
+  align-content: center;
   }
 // override for the 'Home' navigation link
 .navbar-brand {
