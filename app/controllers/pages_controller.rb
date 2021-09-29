@@ -12,5 +12,8 @@ class PagesController < ApplicationController
   end
 
   def philanthropist
+  end
+
+  def overview
   end 
 end

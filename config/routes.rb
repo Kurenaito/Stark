@@ -6,5 +6,6 @@ get '/genius', to: 'pages#genius'
 get '/billionaire', to: 'pages#billionaire'
 get '/playboy', to: 'pages#playboy'
 get '/philanthropist', to: 'pages#philanthropist'
+get '/overview', to: 'pages#overview'
 
 end
