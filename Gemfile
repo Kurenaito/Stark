@@ -24,6 +24,8 @@ gem 'rails-ujs'
 gem 'twitter'
 
 gem 'bootstrap-sass'
+
+gem 'figaro'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
